@@ -1,1 +1,1 @@
-this is a file with git
+Creating a new branch is quick AND simple.
