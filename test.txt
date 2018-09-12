@@ -1,5 +1,1 @@
-git is a usefully
-add something on de
-add
-delete
-aaaaaa
+this is a file with git
